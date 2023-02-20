@@ -21,6 +21,8 @@
             Console.WriteLine(sizeof(double)); //8 bajtów
             Console.WriteLine(sizeof(float)); //4 bajtów
 
+            Console.WriteLine("Minimalna wartość: " + float.MinValue, ", maksymalna wartość: " + float.MaxValue);
+
 
         }
     }
