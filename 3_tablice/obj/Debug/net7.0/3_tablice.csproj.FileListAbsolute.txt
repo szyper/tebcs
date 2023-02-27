@@ -1,0 +1,15 @@
+C:\dane\cs\teb\tebcs\3_tablice\bin\Debug\net7.0\3_tablice.exe
+C:\dane\cs\teb\tebcs\3_tablice\bin\Debug\net7.0\3_tablice.deps.json
+C:\dane\cs\teb\tebcs\3_tablice\bin\Debug\net7.0\3_tablice.runtimeconfig.json
+C:\dane\cs\teb\tebcs\3_tablice\bin\Debug\net7.0\3_tablice.dll
+C:\dane\cs\teb\tebcs\3_tablice\bin\Debug\net7.0\3_tablice.pdb
+C:\dane\cs\teb\tebcs\3_tablice\obj\Debug\net7.0\3_tablice.csproj.AssemblyReference.cache
+C:\dane\cs\teb\tebcs\3_tablice\obj\Debug\net7.0\3_tablice.GeneratedMSBuildEditorConfig.editorconfig
+C:\dane\cs\teb\tebcs\3_tablice\obj\Debug\net7.0\3_tablice.AssemblyInfoInputs.cache
+C:\dane\cs\teb\tebcs\3_tablice\obj\Debug\net7.0\3_tablice.AssemblyInfo.cs
+C:\dane\cs\teb\tebcs\3_tablice\obj\Debug\net7.0\3_tablice.csproj.CoreCompileInputs.cache
+C:\dane\cs\teb\tebcs\3_tablice\obj\Debug\net7.0\3_tablice.dll
+C:\dane\cs\teb\tebcs\3_tablice\obj\Debug\net7.0\refint\3_tablice.dll
+C:\dane\cs\teb\tebcs\3_tablice\obj\Debug\net7.0\3_tablice.pdb
+C:\dane\cs\teb\tebcs\3_tablice\obj\Debug\net7.0\3_tablice.genruntimeconfig.cache
+C:\dane\cs\teb\tebcs\3_tablice\obj\Debug\net7.0\ref\3_tablice.dll
