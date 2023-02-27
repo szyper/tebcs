@@ -76,6 +76,18 @@
             //interpolacja
             Console.WriteLine("Imię: {1}, nazwisko: {0}", _lastName, _firstName);
 
+            //kolory
+            Console.BackgroundColor = ConsoleColor.DarkGray;
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.Clear();
+
+            //pozycja kursora
+            Console.CursorTop = 2;
+            Console.CursorLeft = 30;
+            Console.WriteLine("C#");
+
+            
+
         }
     }
 }

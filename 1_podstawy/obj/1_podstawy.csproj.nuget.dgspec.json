@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dane\\teb\\zajęcia\\tebcs\\1_podstawy\\1_podstawy.csproj": {}
+    "C:\\dane\\cs\\teb\\tebcs\\1_podstawy\\1_podstawy.csproj": {}
   },
   "projects": {
-    "C:\\dane\\teb\\zajęcia\\tebcs\\1_podstawy\\1_podstawy.csproj": {
+    "C:\\dane\\cs\\teb\\tebcs\\1_podstawy\\1_podstawy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dane\\teb\\zajęcia\\tebcs\\1_podstawy\\1_podstawy.csproj",
+        "projectUniqueName": "C:\\dane\\cs\\teb\\tebcs\\1_podstawy\\1_podstawy.csproj",
         "projectName": "1_podstawy",
-        "projectPath": "C:\\dane\\teb\\zajęcia\\tebcs\\1_podstawy\\1_podstawy.csproj",
+        "projectPath": "C:\\dane\\cs\\teb\\tebcs\\1_podstawy\\1_podstawy.csproj",
         "packagesPath": "C:\\Users\\mszyper\\.nuget\\packages\\",
-        "outputPath": "C:\\dane\\teb\\zajęcia\\tebcs\\1_podstawy\\obj\\",
+        "outputPath": "C:\\dane\\cs\\teb\\tebcs\\1_podstawy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mszyper\\AppData\\Roaming\\NuGet\\NuGet.Config",

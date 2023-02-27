@@ -1,0 +1,15 @@
+C:\dane\cs\teb\tebcs\2_podstawy\bin\Debug\net7.0\2_podstawy.exe
+C:\dane\cs\teb\tebcs\2_podstawy\bin\Debug\net7.0\2_podstawy.deps.json
+C:\dane\cs\teb\tebcs\2_podstawy\bin\Debug\net7.0\2_podstawy.runtimeconfig.json
+C:\dane\cs\teb\tebcs\2_podstawy\bin\Debug\net7.0\2_podstawy.dll
+C:\dane\cs\teb\tebcs\2_podstawy\bin\Debug\net7.0\2_podstawy.pdb
+C:\dane\cs\teb\tebcs\2_podstawy\obj\Debug\net7.0\2_podstawy.csproj.AssemblyReference.cache
+C:\dane\cs\teb\tebcs\2_podstawy\obj\Debug\net7.0\2_podstawy.GeneratedMSBuildEditorConfig.editorconfig
+C:\dane\cs\teb\tebcs\2_podstawy\obj\Debug\net7.0\2_podstawy.AssemblyInfoInputs.cache
+C:\dane\cs\teb\tebcs\2_podstawy\obj\Debug\net7.0\2_podstawy.AssemblyInfo.cs
+C:\dane\cs\teb\tebcs\2_podstawy\obj\Debug\net7.0\2_podstawy.csproj.CoreCompileInputs.cache
+C:\dane\cs\teb\tebcs\2_podstawy\obj\Debug\net7.0\2_podstawy.dll
+C:\dane\cs\teb\tebcs\2_podstawy\obj\Debug\net7.0\refint\2_podstawy.dll
+C:\dane\cs\teb\tebcs\2_podstawy\obj\Debug\net7.0\2_podstawy.pdb
+C:\dane\cs\teb\tebcs\2_podstawy\obj\Debug\net7.0\2_podstawy.genruntimeconfig.cache
+C:\dane\cs\teb\tebcs\2_podstawy\obj\Debug\net7.0\ref\2_podstawy.dll
