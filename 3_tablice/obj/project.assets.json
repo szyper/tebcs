@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mszyper\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dane\\cs\\teb\\tebcs\\3_tablice\\3_tablice.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\git\\teb\\tebcs\\3_tablice\\3_tablice.csproj",
       "projectName": "3_tablice",
-      "projectPath": "C:\\dane\\cs\\teb\\tebcs\\3_tablice\\3_tablice.csproj",
-      "packagesPath": "C:\\Users\\mszyper\\.nuget\\packages\\",
-      "outputPath": "C:\\dane\\cs\\teb\\tebcs\\3_tablice\\obj\\",
+      "projectPath": "C:\\xampp\\htdocs\\git\\teb\\tebcs\\3_tablice\\3_tablice.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\xampp\\htdocs\\git\\teb\\tebcs\\3_tablice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mszyper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

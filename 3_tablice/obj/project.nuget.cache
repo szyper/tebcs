@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hLWJjQNUp8WP9wonObGHD0wELsFiGYa66x/K8PET1qwBMFsfGQaDSZ8ysKgbvEqAlitMPgg+dJcjjFuqk6Iyxw==",
+  "dgSpecHash": "faFCu3an9ceI27KfdUbqJy23AajhL2FwOkIMvXls2w5FMudoVOS/0Q1eLngpVlNhEjeJ9djR3FzBnQ38bv0Zcg==",
   "success": true,
-  "projectFilePath": "C:\\dane\\cs\\teb\\tebcs\\3_tablice\\3_tablice.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\git\\teb\\tebcs\\3_tablice\\3_tablice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

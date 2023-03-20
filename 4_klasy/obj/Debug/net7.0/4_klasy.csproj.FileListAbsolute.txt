@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\bin\Debug\net7.0\4_klasy.exe
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\bin\Debug\net7.0\4_klasy.deps.json
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\bin\Debug\net7.0\4_klasy.runtimeconfig.json
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\bin\Debug\net7.0\4_klasy.dll
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\bin\Debug\net7.0\4_klasy.pdb
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\obj\Debug\net7.0\4_klasy.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\obj\Debug\net7.0\4_klasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\obj\Debug\net7.0\4_klasy.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\obj\Debug\net7.0\4_klasy.AssemblyInfo.cs
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\obj\Debug\net7.0\4_klasy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\obj\Debug\net7.0\4_klasy.dll
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\obj\Debug\net7.0\refint\4_klasy.dll
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\obj\Debug\net7.0\4_klasy.pdb
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\obj\Debug\net7.0\4_klasy.genruntimeconfig.cache
+C:\xampp\htdocs\git\teb\tebcs\4_klasy\obj\Debug\net7.0\ref\4_klasy.dll
