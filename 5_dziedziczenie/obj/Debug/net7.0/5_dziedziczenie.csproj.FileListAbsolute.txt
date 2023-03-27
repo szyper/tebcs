@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\bin\Debug\net7.0\5_dziedziczenie.exe
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\bin\Debug\net7.0\5_dziedziczenie.deps.json
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\bin\Debug\net7.0\5_dziedziczenie.runtimeconfig.json
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\bin\Debug\net7.0\5_dziedziczenie.dll
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\bin\Debug\net7.0\5_dziedziczenie.pdb
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\obj\Debug\net7.0\5_dziedziczenie.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\obj\Debug\net7.0\5_dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\obj\Debug\net7.0\5_dziedziczenie.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\obj\Debug\net7.0\5_dziedziczenie.AssemblyInfo.cs
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\obj\Debug\net7.0\5_dziedziczenie.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\obj\Debug\net7.0\5_dziedziczenie.dll
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\obj\Debug\net7.0\refint\5_dziedziczenie.dll
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\obj\Debug\net7.0\5_dziedziczenie.pdb
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\obj\Debug\net7.0\5_dziedziczenie.genruntimeconfig.cache
+C:\xampp\htdocs\git\teb\tebcs\5_dziedziczenie\obj\Debug\net7.0\ref\5_dziedziczenie.dll
