@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\bin\Debug\net7.0\6_1_interfejsy.exe
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\bin\Debug\net7.0\6_1_interfejsy.deps.json
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\bin\Debug\net7.0\6_1_interfejsy.runtimeconfig.json
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\bin\Debug\net7.0\6_1_interfejsy.dll
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\bin\Debug\net7.0\6_1_interfejsy.pdb
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\obj\Debug\net7.0\6_1_interfejsy.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\obj\Debug\net7.0\6_1_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\obj\Debug\net7.0\6_1_interfejsy.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\obj\Debug\net7.0\6_1_interfejsy.AssemblyInfo.cs
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\obj\Debug\net7.0\6_1_interfejsy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\obj\Debug\net7.0\6_1_interfejsy.dll
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\obj\Debug\net7.0\refint\6_1_interfejsy.dll
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\obj\Debug\net7.0\6_1_interfejsy.pdb
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\obj\Debug\net7.0\6_1_interfejsy.genruntimeconfig.cache
+C:\xampp\htdocs\git\teb\tebcs\6_1_interfejsy\obj\Debug\net7.0\ref\6_1_interfejsy.dll

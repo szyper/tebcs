@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\bin\Debug\net7.0\6_3_interfejsy_shape.exe
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\bin\Debug\net7.0\6_3_interfejsy_shape.deps.json
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\bin\Debug\net7.0\6_3_interfejsy_shape.runtimeconfig.json
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\bin\Debug\net7.0\6_3_interfejsy_shape.dll
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\bin\Debug\net7.0\6_3_interfejsy_shape.pdb
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\obj\Debug\net7.0\6_3_interfejsy_shape.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\obj\Debug\net7.0\6_3_interfejsy_shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\obj\Debug\net7.0\6_3_interfejsy_shape.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\obj\Debug\net7.0\6_3_interfejsy_shape.AssemblyInfo.cs
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\obj\Debug\net7.0\6_3_interfejsy_shape.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\obj\Debug\net7.0\6_3_interfejsy_shape.dll
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\obj\Debug\net7.0\refint\6_3_interfejsy_shape.dll
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\obj\Debug\net7.0\6_3_interfejsy_shape.pdb
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\obj\Debug\net7.0\6_3_interfejsy_shape.genruntimeconfig.cache
+C:\xampp\htdocs\git\teb\tebcs\6_3_interfejsy_shape\obj\Debug\net7.0\ref\6_3_interfejsy_shape.dll
