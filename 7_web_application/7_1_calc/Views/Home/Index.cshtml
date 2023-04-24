@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Kalkulator";
+}
+
+<div class="card mt-5">
+    @Html.TextBox("ScreenInput",  null, new{ @class="calculator-screen",    disabled="disabled"})
+
+    <div class="calculator-btns">
+        <button type="button" class="btn bg-success" onclick="addNumber('7')">7</button>
+        <button type="button" class="btn bg-success" onclick="addNumber('8')">8</button>
+        <button type="button" class="btn bg-success" onclick="addNumber('9')">9</button>
+        <button type="button" class="btn bg-secondary" onclick="addNumber('/')">/</button>
+        <button type="button" class="btn bg-secondary" onclick="addNumber('+')">+</button>
+
+        <button type="button" class="btn bg-success" onclick="addNumber('4')">4</button>
+        <button type="button" class="btn bg-success" onclick="addNumber('5')">5</button>
+        <button type="button" class="btn bg-success" onclick="addNumber('6')">6</button>
+        <button type="button" class="btn bg-secondary" onclick="addNumber('-')">-</button>
+
+        <button type="button" class="btn bg-success" onclick="addNumber('1')">1</button>
+        <button type="button" class="btn bg-success" onclick="addNumber('2')">2</button>
+        <button type="button" class="btn bg-success" onclick="addNumber('3')">3</button>
+        <button type="button" class="btn bg-secondary" onclick="addNumber('*')">*</button>
+
+        <button type="button" class="btn bg-primary result-button"
+        onclick="getResult()">=</button>
+
+        <button type="button" class="btn bg-success zero-button" 
+        onclick="addNumber('0')">0</button>
+        <button type="button" class="btn bg-success" onclick="addNumber(',')">,</button>
+        <button type="button" class="btn bg-danger" onclick="clearScreen()">C</button>
+
+    </div>
+
+</div>
+
+@section Scripts
+{
+    <script>
+        let screenInput = $("#ScreenInput");
+
+        $(document).ready(function(){
+            screenInput.val("0");
+        })
+
+        function addNumber(number){
+
+        }
+
+        function addOperation(operation){
+
+        }
+
+        function clearScreen(){
+
+        }
+
+        function getResult() {
+
+        }
+
+    </script>
+}
+    
