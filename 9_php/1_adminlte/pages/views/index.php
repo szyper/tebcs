@@ -1,3 +1,6 @@
+<?php
+  session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,16 +20,28 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <!-- /.login-logo -->
+  <?php
+	if (isset($_SESSION["success"])){
+		echo <<< SUCCESS
+            <div class="callout callout-success">
+                  <h5>Gratulacje!</h5>
+                  <p>$_SESSION[success]</p>
+            </div>
+SUCCESS;
+
+	}
+	?>
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
       <a href="./" class="h1"><b>Admin</b>LTE</a>
     </div>
     <div class="card-body">
+
       <p class="login-box-msg">Sign in to start your session</p>
 
-      <form action="../../index3.html" method="post">
+      <form action="../../scripts/login.php" method="post">
         <div class="input-group mb-3">
-          <input type="email" class="form-control" placeholder="Email">
+          <input type="email" class="form-control" placeholder="Podaj login" name="login">
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-envelope"></span>
@@ -34,7 +49,7 @@
           </div>
         </div>
         <div class="input-group mb-3">
-          <input type="password" class="form-control" placeholder="Password">
+          <input type="password" class="form-control" placeholder="Podaj hasło" name="pass">
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-lock"></span>
